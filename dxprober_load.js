@@ -1,8 +1,8 @@
 var body = $response.body;
 var url = $request.url;
 
-var u = "lyan816";
-var p = "glz20070816";
+var u = "";
+var p = "";
 
 if (body) {
   body = body.replace(
